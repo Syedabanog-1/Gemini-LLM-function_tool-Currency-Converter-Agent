@@ -1,3 +1,4 @@
+
 # Gemini-LLM-function_tool-Currency-Converter-Agent
 
 
@@ -56,6 +57,7 @@ ER-API	External API used for real-time currency rates
 
 ✅ Minimalist and functional UI
 
+![pkr to usd](https://github.com/user-attachments/assets/f610c92e-3fe4-4348-9258-ecaba2aa5b10)
 ![200 USD to PKR](https://github.com/user-attachments/assets/14019304-94b1-449f-b686-1330e03941d0)
 ![TODAYS DOLLAR RATE](https://github.com/user-attachments/assets/53aabaa7-921a-4742-b7aa-36fc370f2ad1)
 ![USD TO PKR](https://github.com/user-attachments/assets/95c64d02-85b6-4614-8ae7-6a1c5bbd3bea)
